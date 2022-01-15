@@ -92,7 +92,7 @@ const SingleCocktail = () => {
 
   return (
     <section className="section cocktail-section">
-      <Link to="/" className="btn btn-primary">
+      <Link to="/TheCocktailDB/" className="btn btn-primary">
         {' '}
         back home
       </Link>
